@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/bbq-beets/cdobson-demo#readme",
   "devDependencies": {
-    "jest": "^24.8.0",
+    "jest": "^29.6.1",
     "chai": "^3.5.0",
     "istanbul": "^0.4.3",
     "mocha": "^2.5.3",
